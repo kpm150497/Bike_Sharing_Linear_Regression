@@ -160,7 +160,7 @@ Scaling is the process of normalization of values of independent continuous vari
 | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | Also known as min-max scaling                                                                              | also known as z-score normalization                                                                        |
 | Range is between 0 and 1                                                                                   | Range is between -1 and 1                                                                                  |
-| Formula used for scaling ![](./images/13_Image.png) | Formula used for scaling ![](./images/14_Image.png) |
+| Formula used for scaling<br/> ![](./images/13_Image.png) | Formula used for scaling<br/> ![](./images/14_Image.png) |
 | It is more useful for models like logistic regression or support vector machine.                           | It is more useful for models like linear regression.                                                       |
 
 ## 5. You might have observed that sometimes the value of VIF is infinite. Why does this happen?
@@ -193,3 +193,6 @@ If both probability distributions follow the same pattern, then a line y = x (pa
 - Presence of light or heavy tail, right or left skewness is clearly indicated.
 - As Q-Q plot compares the probability distributions, the size of two quantitative variables can be different.
 - Presence of outliers and any deviation/exception are easily visible in Q-Q plot.
+
+# Important Link
+- [Linear Regression Subjective Questions](./Linear_Regression_Subjective_Questions_Kunal.pdf)
